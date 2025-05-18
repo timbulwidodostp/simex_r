@@ -1,6 +1,8 @@
 # simex_r
 Simulation extrapolation (Simex) Use simex With (In) R Software
 
+https://www.youtube.com/watch?v=q9lBcG29rA8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
